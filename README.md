@@ -2,8 +2,8 @@
 I'm a ghost haunting in Metaverse. Currently a FinTech evangelist building Web3.0.
 ## 🌱 Background 
 - Founder of ???
-- Study [Data Science - Financial Technology](https://cds.ici.um.edu.mo/programme/specialization/financial-technology/) in University of Macau
-- Vice President of [Securities Investment Association of Jilin University](https://mp.weixin.qq.com/s/m2AnjGqCcmbfmdn0Crtkrw)
+- Study [Data Science - Financial Technology](https://cds.ici.um.edu.mo/programme/specialization/financial-technology/) in University of Macau, graduation in 2023
+- Vice President of [Securities Investment Association of Jilin University](https://mp.weixin.qq.com/s/m2AnjGqCcmbfmdn0Crtkrw), retirement from 2020
 ## 🔧 Skill
 - ✅Data Analysis: Python / SQL / SAS / Stata / R / Tableau / Power BI
 - ✅Smart Contract Development: Solidity / Golang / Rust
