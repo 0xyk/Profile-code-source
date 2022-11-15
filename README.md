@@ -1,4 +1,4 @@
-## ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0xyk.visitor-badge&left_color=red&right_color=green&left_text=Welcome) 吃了么 | いらっしゃいませ | Olá
+## ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0xyk.visitor-badge&left_color=red&right_color=green&left_text=Welcome) Hello World | 吃了么 | いらっしゃいませ | Olá
 I'm a ghost haunting in Metaverse. Currently a FinTech evangelist building Web3.0.
 ## 🌱 Background 
 - Founder of ???
