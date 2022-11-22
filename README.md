@@ -6,7 +6,7 @@ I'm a ghost haunting in Metaverse. Currently a FinTech evangelist building Web3.
 - Vice President of [Securities Investment Association of Jilin University](https://mp.weixin.qq.com/s/m2AnjGqCcmbfmdn0Crtkrw). Retirement from 2020
 - One-Million-Word Writer. Microfiction, film review and knowledge sharing on [Jianshu](https://www.jianshu.com/u/e4555da89110) from 2019
 ## 🔧 Skill
-- ✅Data Analysis: Python / SQL / SAS / Stata / R / Tableau / Power BI
+- ✅Data Analysis: Python / SQL / SAS / R / STATA / SPSS / Tableau / Power BI
 - ✅Smart Contract Development: Solidity / Golang / Rust
 ## 👋 Language
 - Mandarin Chinese
