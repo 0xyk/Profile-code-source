@@ -7,7 +7,7 @@ I'm a ghost haunting in Metaverse. Currently a FinTech evangelist building Web3.
 - One-Million-Word Writer. Microfiction, film review and knowledge sharing on [Jianshu](https://www.jianshu.com/u/e4555da89110) from 2019
 ## 🔧 Skill
 - ✅Data Analysis: Python / SQL / SAS / R / STATA / SPSS / Tableau / Power BI
-- ✅Smart Contract Development: Solidity / Golang / Rust
+- ✅Smart Contract Development: Solidity / Golang / Rust / Java
 ## 👋 Language
 - Mandarin Chinese
 - English
