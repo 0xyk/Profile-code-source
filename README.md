@@ -15,6 +15,5 @@ I'm a ghost haunting in Metaverse. Currently a FinTech evangelist building Web3.
 ## 📮 How to reach me
 - Twitter [@0xyouka](https://twitter.com/0xyouka)
 - Email [Follow Up Here](mailto:0xyouka@gmail.com)
-- More about me
 ## 👀 Some amazing stuff to look into
 Have a look at pinned projects below.
